@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import "./index.css";
 
 const init = 0;
+// hello this is chck commet for github
 
 function Task() {
   const [point, setPoint] = useState();
@@ -68,7 +69,7 @@ function Task() {
         <div>
           <nav className="  text-zinc-100 bg-slate-500 pt-2 flex justify-between align items-center">
             <span className=" text-3xl  capitalize ml-12 text-white  font-semibold">
-              ping pong score board
+              ping pong score board ohhhh
             </span>
             <div className="gap-3">
               <button
